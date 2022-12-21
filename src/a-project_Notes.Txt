@@ -1,0 +1,4 @@
+All the resources used in this project.
+TailwindCss.
+DaisyUI.
+react router dom
