@@ -1,4 +1,5 @@
 All the resources used in this project.
-TailwindCss.
-DaisyUI.
-react router dom
+** TailwindCss.
+** DaisyUI.
+** react router dom
+** firebase for authentication

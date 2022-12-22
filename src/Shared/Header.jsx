@@ -4,7 +4,9 @@ import logo from '../assets/logo.svg'
 const Header = () => {
 
   const menuitems = <>
-  <li className='font-bold'><Link to='/'>Home</Link></li>
+    <li className='font-bold'><Link to='/'>Home</Link></li>
+    <li className='font-bold'><Link to='/login'>Login</Link></li>
+    
   </>
   return (
     <div className="navbar bg-base-100 h-20 pt-12 mb-12">
